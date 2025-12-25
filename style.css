@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 20px;
+    font-weight: 700;
+    margin: 20px;
+}
+
+.second{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 30px;
+    margin: 40px auto;
+}
+
+.third{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 700;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+.thrd{
+    background-color: red;
+    width: 350px;
+    height: 250px;
+    padding: 110px 140px;
+
+}
+
+.fourth{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 20px;
+    font-weight: 700;
+    margin: 70px auto
+}
